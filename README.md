@@ -3,6 +3,11 @@
 Validate [マイナンバー](http://law.e-gov.go.jp/announce/H26SE155.html)
 
 
+## Screenshot
+
+![mynumber](image/mynumber.png)
+
+
 ## Usage
 
 #### `(mynumber-validate "your my number")`
